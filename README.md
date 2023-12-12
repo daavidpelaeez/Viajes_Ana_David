@@ -37,7 +37,7 @@
 - variables CSS para facilitar la personalización de colores y fuentes
 - Añadió varios temas de piggments para el punto de resaltar de sintaxis de código configurable del archivo .config.yml.
 - Menú de pie sensible y logotipo de pies (si se configura en el archivo de configuración)
-  ![adam](img/Adamblog.png)
+  ![adam](img/AdamBlog.png)
 
 ### Includes
 [Adjuntamos enlace url] 
